@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I am **Eslam Mohamed Abbas**, a passionate **Malwa
 ## 🔰 Overview
 
 - **Name**: Eslam Mohamed Abbas
-- **Location**: El Mahalla El Kubra, El Gharbia Governorate, Egypt
 - **Email**: manwelnueur87@gmail.com
 - **LinkedIn**: [Eslam Abbas](https://www.linkedin.com/in/eslam-abbas-20aa64213/)
 - **Twitter**: [@Eslam_Abbas_1](https://twitter.com/Eslam_Abbas_1)
@@ -25,7 +24,7 @@ I am 20 years old and currently work as a **Malware Analyst** and **Cybersecurit
 - **Key Accomplishments**:
   - Played a critical role in enhancing threat detection using advanced reverse engineering techniques.
 
-### Cyber Security Instructor - **AMIT Learning** & **Freelance**
+### Cyber Security Instructor - **AMIT Learning** & **Instant**
 - **Responsibilities**:
   - Delivered interactive and comprehensive cybersecurity training in both classroom and virtual environments.
   - Conducted live **malware analysis**, **binary exploitation**, and **OSINT labs** to help students master key concepts.
@@ -132,14 +131,10 @@ Feel free to reach out for collaborations, project inquiries, or discussions abo
 
 - **Email**: manwelnueur87@gmail.com
 - **LinkedIn**: [Eslam Abbas](https://www.linkedin.com/in/eslam-abbas-20aa64213/)
-- **GitHub**: [Apcarinoo](https://github.com/Apcarinoo)
+- **GitHub**: [Mr Robot](https://github.com/0xMr-Robot)
 - **Twitter**: [@Eslam_Abbas_1](https://twitter.com/Eslam_Abbas_1)
 
 ---
 
-## 🔒 License
-This repository and all its content are licensed under the MIT License.
-
----
 
 Thank you for visiting my GitHub! Check out my repositories for more insights into my work, projects, and contributions to the cybersecurity community.
