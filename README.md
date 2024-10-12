@@ -67,13 +67,13 @@ I specialize in **Reverse Engineering**, **Binary Exploitation (PWN)**, and **Th
 
 ## 💻 Key Projects
 
-### [**AMON Eye**](https://github.com/S3N4T0R-0X0/AM0N-Eye)
+### [**AMON Eye**]
 - **Description**: AMON Eye is a decompiled and modified version of **Cobalt Strike** with numerous improvements through aggressor scripts and BOFs (Beacon Object Files). This project showcases several **EDR (Endpoint Detection and Response)** and **Antivirus evasion** techniques.
 - **My Role**:
   - Developed **YARA rules** and **IOCs (Indicators of Compromise)** for payloads and stagers to identify threats.
   - Integrated advanced evasion techniques used by threat actors.
 
-### [**Bear C2**](https://github.com/S3N4T0R-0X0/BEAR)
+### [**Bear C2**]
 - **Description**: Bear C2 is a compilation of **C2 (Command and Control)** scripts, payloads, and stagers, inspired by **Russian APT** groups. It includes encryption methods like AES, XOR, DES, and more to secure communication between the payload and the operator.
 - **My Role**:
   - Worked extensively on the **malware analysis** part, creating **YARA rules** for payloads and improving stager functionality.
